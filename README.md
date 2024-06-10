@@ -12,7 +12,7 @@
 
 - Clonar repositório git:
 ```
-git clone
+git clone https://github.com/edmareliasb/demo-jdbc-client
 ```
 - Construir o projeto:
 ```
